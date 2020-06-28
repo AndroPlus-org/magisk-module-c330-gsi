@@ -1,0 +1,6 @@
+id=c330-gsi
+name=KaiRakuten GSI
+version=v01
+versionCode=1
+author=AndroPlus
+description=Rakuten Mini C330 で Android 10 GSI を起動する際のブートループを修正します。(Xiaomi Redmi 8 のファイルを流用しています)
