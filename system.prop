@@ -1,0 +1,19 @@
+#Force enable VoLTE
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.dbg.allow_ims_off=1
+persist.dbg.wfc_avail_ovr=1
+persist.sys.phh.ims.caf=true
+
+#Smoother UI
+debug.hwui.renderer=skiavk
+
+#Hide warning by using stock prop
+ro.product.model=C330
+ro.product.brand=Rakuten
+ro.product.name=C330
+ro.product.device=C330
+ro.product.manufacturer=TINNO
+ro.build.product=c330ae
+ro.build.description=c330ae-user 9 PKQ1.190616.001 299 release-keys
+ro.build.fingerprint=Rakuten/C330/C330:9/PKQ1.190616.001/299:user/release-keys

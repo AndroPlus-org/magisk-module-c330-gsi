@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+     com.felicanetworks.felica.xml
+
+     Copyright 2013 FeliCa Networks, Inc.
+     All Rights Reserved.
+     FeliCa Networks, Inc. Proprietary/Confidential.
+-->
+<permissions>
+    <library name="com.felicanetworks.felica"
+            file="/system/framework/com.felicanetworks.felica.jar"/>
+</permissions>

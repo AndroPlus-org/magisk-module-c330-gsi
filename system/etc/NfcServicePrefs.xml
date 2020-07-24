@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="rw_p2p_on" value="true" />
+    <boolean name="nfc_on" value="true" />
+    <boolean name="first_boot" value="false" />
+</map>
