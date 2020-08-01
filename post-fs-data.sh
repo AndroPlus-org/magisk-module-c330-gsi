@@ -43,3 +43,7 @@ cp $MODDIR/system/etc/felica.cfg /data/system/nfc/felica.cfg
 chown nfc system /data/system/nfc/felica.cfg
 chmod 0660 /data/system/nfc/felica.cfg
 export SYSTEMSERVERCLASSPATH=$SYSTEMSERVERCLASSPATH:/system/framework/com.felicanetworks.felicaextra.jar:/system/framework/com.felicanetworks.felica.jar
+
+# FPS Info
+chown system graphics /sys/class/graphics/fb0/measured_fps
+chmod 0666 /sys/class/graphics/fb0/measured_fps
